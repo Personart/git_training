@@ -1,2 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-dddd
+<<<<<<< HEAD
+Mdr
+=======
+Yolo
+>>>>>>> 17e6ff373cee998dd5b8cf4540802268ee3ad91f
